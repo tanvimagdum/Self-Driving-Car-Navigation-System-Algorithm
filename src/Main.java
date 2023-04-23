@@ -2,9 +2,6 @@ import java.util.List;
 
 public class Main {
 
-    public static final Node START = new Node(0, 0, 1.0);
-    public static final Node GOAL = new Node(10, 10, 1.0);
-
     public static void main(String[] args) {
         // Create nodes for the graph
         Node n1_1 = new Node(1, 1, 1.0);
